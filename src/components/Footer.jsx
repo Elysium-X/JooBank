@@ -27,7 +27,7 @@ const Footer = () =>
           </h4>
           <ul className='list-none mt-4'>
 
-            {footerLink.links.map((link, index) => (
+            {footerLink.links.map((link) => (
               <li key={link.name} className={`font-poppins font-normal text-[16px] leading-[24px] text-dimWhite
                hover:text-secondary cursor-pointer mb-4 last:mb-0`}>
                 <a href={`#${link.name}`}>{link.name}</a>
