@@ -152,10 +152,3 @@ The application uses a combination of:
 - **Modern Color Scheme**: Dark theme with accent colors
 - **Typography**: Clean, readable Poppins font family
 
-## 📝 License
-
-This project is private and proprietary.
-
----
-
-Built with ❤️ using React and Vite
