@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from '../style'
 import { joo, } from '../assets'
-import {footerLinks, socialMedia} from '../constants'
+import {footerLinks, socialMedia} from '../Constants'
 import Button from './Button'
 
 

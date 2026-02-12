@@ -1,5 +1,5 @@
 import React from "react";
-import { clients } from "../constants";
+import { clients } from "../Constants";
 import styles from "../style";
 
 const Clients = () => (

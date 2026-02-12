@@ -1,5 +1,5 @@
 import React from "react";
-import { feedback } from "../constants";
+import { feedback } from "../Constants";
 import styles from "../style";
 import FeedBackCard from "./FeedBackCard";
 
